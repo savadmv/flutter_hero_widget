@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b365df6-e4c2-4df0-83ea-c19c7ab4c021" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1h01xBzTpeRHCh4JXF7MQwfjfpJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b365df6-e4c2-4df0-83ea-c19c7ab4c021" name="Default Changelist" comment="" />
+      <created>1599133439143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599133439143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="544" key="GridCell.Tab.0.bottom" timestamp="1599195091281">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="544" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599195091281" />
+    <state width="1398" height="544" key="GridCell.Tab.0.center" timestamp="1599195091278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="544" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599195091278" />
+    <state width="1398" height="544" key="GridCell.Tab.0.left" timestamp="1599195091277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="544" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599195091277" />
+    <state width="1398" height="544" key="GridCell.Tab.0.right" timestamp="1599195091279">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="544" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599195091279" />
+    <state x="500" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599486507655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="500" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599486507655" />
+    <state x="417" y="351" key="git4idea.ui.GitResetDialog" timestamp="1599487649224">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="417" y="351" key="git4idea.ui.GitResetDialog/0.0.1440.900@0.0.1440.900" timestamp="1599487649224" />
+  </component>
+</project>
